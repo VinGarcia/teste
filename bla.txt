@@ -1,0 +1,4 @@
+nome: vinicius
+idade: 25
+local: bh
+sexo: m
